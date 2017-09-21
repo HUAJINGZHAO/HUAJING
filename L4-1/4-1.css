@@ -1,0 +1,53 @@
+#c{
+        font-style: italic;
+        font-weight: bold;
+        font-size: 90px;
+        font-family: arial;
+        text-align: center;
+
+    }
+    #o{
+        font-size:40px;
+        font-family: serif;
+        text-align: center;
+    }
+    #m{
+        font-size:300px;
+        font-family:sans-serif;
+        text-align: center;
+
+        
+    }
+    #p{
+        font-size:150px;
+        font-family:arial;
+        text-align: center;
+
+        
+    }
+    #l{
+        font-size:150px;
+        font-family:sans-serif;
+        font-style:italic;
+        text-align: center;
+
+    }
+    #e{
+        font-size:50px;
+        font-family:arial;
+        text-align: center;
+        font-style:italic;
+
+    }
+    #x{
+        font-size:30px;
+        font-weight: bold;
+        text-align: center;
+
+    }
+    div{
+            
+            left:10px;
+            top:720px;
+    
+        }

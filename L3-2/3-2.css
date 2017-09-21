@@ -1,0 +1,104 @@
+#p{
+            position:absolute;
+            top:20px;
+            left:50%;
+            border: 3px solid black;
+            padding:20px;
+            
+        }
+        #r{
+            position:absolute;
+            top:200px;
+            left:70%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #o{
+            position:absolute;
+            top:240px;
+            left:10%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #c{
+            position:absolute;
+            top:400px;
+            left:30%;
+            border: 3px solid black;
+            padding:20px;}
+        #e{
+            position:absolute;
+            top:440px;
+            left:30%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #s1{
+            position:absolute;
+            top:520px;
+            left:20%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #s2{
+            position:absolute;
+            top:700px;
+            left:60%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #p2{
+            position:absolute;
+            top:850px;
+            left:50%;
+            border: 3px solid black;
+            padding:20px;
+            
+        }
+        #r2{
+            position:absolute;
+            top:970px;
+            left:70%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #o2{
+            position:absolute;
+            top:1300px;
+            left:65%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #c2{
+            position:absolute;
+            top:1400px;
+            left:10%;
+            border: 3px solid black;
+            padding:20px;}
+        #e2{
+            position:absolute;
+            top:1600px;
+            left:25%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #s3{
+            position:absolute;
+            top:1770px;
+            left:20%;
+            border: 3px solid black;
+            padding:20px;
+        }
+        #s4{
+            position:absolute;
+            top:2300px;
+            left:60%;
+            border: 3px solid black;
+            padding:20px;
+        }
+div{
+            position:absolute;
+            left:10px;
+            top:2400px;
+    
+        }

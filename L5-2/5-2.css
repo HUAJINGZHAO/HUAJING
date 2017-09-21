@@ -1,0 +1,196 @@
+#button1{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top: 70px;
+                left:4px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:90px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button1:hover{
+                background-color: gray;
+                color:white;
+}
+    #button2{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top: 790px;
+                left:30px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:80px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button2:hover{
+                background-color: gray;
+                color:white;
+}
+    #button3{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top: 790px;
+                left:2000px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:70px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button3:hover{
+                background-color: gray;
+                color:white;
+}
+    #button4{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top:1390px;
+                left:30px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:60px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button4:hover{
+                background-color: gray;
+                color:white;
+}
+    #button5{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top:2390px;
+                left:10px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:50px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button5:hover{
+                background-color: gray;
+                color:white;
+}
+    
+    #button6{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top:2390px;
+                left:2000px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:40px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button6:hover{
+                background-color: gray;
+                color:white;
+}
+    #button7{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top:3700px;
+                left:10px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:30px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button7:hover{
+                background-color: gray;
+                color:white;
+}
+    #button8{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top:3700px;
+                left:2010px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:20px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button8:hover{
+                background-color: gray;
+                color:white;
+}
+    #button9{
+                background-color:none;
+                border:2px solid grey;
+                color: grey;
+                padding: 10px;
+                position: absolute;
+                top:4700px;
+                left:2010px;
+                font-family:sans-serif;
+                color: grey;
+                font-weight:thick;
+                font-size:10px;
+                transform: translateY(-50%);
+                transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                cursor: pointer;
+            }
+                #button9:hover{
+                background-color: gray;
+                color:white;
+}
+            div{
+            position:absolute;
+            left:10px;
+            top:650px;
+    
+        }

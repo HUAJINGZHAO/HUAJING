@@ -1,0 +1,23 @@
+#p1{
+        letter-spacing: 80px;
+        left:60px;
+    }
+    #p2{
+        letter-spacing: 70px;
+        
+    }
+    #p3{
+        letter-spacing: 200px;
+        left:60px;
+        top:300px;
+    }
+    #p4{
+        font-size:140px;
+        font-weight:bold;
+        text-align: center;
+    }
+    #p5{
+        font-size:140px;
+        font-size:2em;
+
+    }

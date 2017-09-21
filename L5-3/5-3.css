@@ -1,0 +1,99 @@
+body{
+	width:100px;
+	height:100px;
+	background:red;
+	animation:myfirst 7s;
+	-moz-animation:myfirst 7s; 
+	-webkit-animation:myfirst 7s;
+	-o-animation:myfirst 7s;
+}
+
+    @keyframes myfirst
+    {
+	0%   {background:brown;}
+	25%  {background:red;}
+	50%  {background:blue;}
+	100% {background:green;}
+}
+
+    @-moz-keyframes myfirst
+    {
+	0%   {background:brown;}
+	25%  {background:red;}
+	50%  {background:blue;}
+	100% {background:green;}
+}
+
+    @-webkit-keyframes myfirst 
+    {
+	0%   {background:brown;}
+	25%  {background:red;}
+	50%  {background:blue;}
+	100% {background:green;}
+}
+
+    @-o-keyframes myfirst
+    {
+	0%   {background:brown;}
+	25%  {background:red;}
+	50%  {background:blue;}
+	100% {background:green;}
+}
+
+    #p1{
+        font-size: 70px;
+        color:aliceblue;
+        position:fixed;
+        top:60px;
+        left:10%;
+    }
+    
+    #p2{
+        font-size: 70px;
+        color:aliceblue;
+        position: absolute;
+        top:660px;
+        left:40%;
+    }
+    
+    #p3{
+        font-size: 70px;
+        color:aliceblue;
+        position: absolute;
+        top:1160px;
+        left:40%;
+    }
+    #p4{
+        font-size: 70px;
+        color:aliceblue;
+        position: absolute;
+        top:1660px;
+        left:40%;
+    }
+    #p5{
+        font-size: 70px;
+        color:aliceblue;
+        position: absolute;
+        top:2160px;
+        left:40%;
+    }
+    #p6{
+        font-size: 70px;
+        color:aliceblue;
+        position: absolute;
+        top:2660px;
+        left:40%;
+    }
+    #p7{
+        font-size: 70px;
+        color:aliceblue;
+        position: absolute;
+        top:3210px;
+        left:40%;
+    }
+div{
+            position:absolute;
+            left:10px;
+            top:3350px;
+    
+        }

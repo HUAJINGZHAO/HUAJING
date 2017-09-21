@@ -1,0 +1,66 @@
+h1{
+            border: 10px solid black;
+            padding-left:300px;
+            padding-right:300px;
+            padding-bottom:50px;
+            padding-top:50px;
+            position:absolute;
+            top:20px;
+            left:25%;
+            display: inline-block;
+            
+        }
+        h2{
+            border: 5px solid black;
+            padding-left:200px;
+            padding-right:200px;
+            padding-bottom:40px;
+            padding-top:40px;
+            position:absolute;
+            top:400px;
+            left:33%;
+            
+        }
+        h3{
+            border: 3px solid black;
+            padding-left:100px;
+            padding-right:100px;
+            padding-bottom:20px;
+            padding-top:20px;
+            position:absolute;
+            top:740px;
+            left:40%;
+            
+        }
+        h4{
+            border: 1.5px solid black;
+            padding-left:50px;
+            padding-right:50px;
+            padding-bottom:10px;
+            padding-top:10px;
+            position:absolute;
+            top:1025px;
+            left:44%;
+        }
+        h5{
+            border: 1px solid black;
+            padding-left:25px;
+            padding-right:25px;
+            padding-bottom:5px;
+            padding-top:5px;
+            position:absolute;
+            top:1282px;
+            left:46.5%;
+            
+        }
+        h6{
+            position:absolute;
+            top:1515px;
+            left:48.5%;
+        }
+        div{
+            position:absolute;
+            left:10px;
+            top:1590px;
+    
+        }
